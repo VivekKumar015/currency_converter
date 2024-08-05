@@ -10,13 +10,9 @@ A modern currency converter web app built with HTML, CSS, and JavaScript, featur
 - Real-time exchange rates using an external API.
 - Responsive design for various screen sizes.
 
-## Demo
-
-You can see a live demo of the project [here](#).
-
 ## Screenshots
 
-(![image](https://github.com/user-attachments/assets/8a5e3b60-503f-4789-aa8d-ccd82e0fb826)
+![image](https://github.com/user-attachments/assets/8a5e3b60-503f-4789-aa8d-ccd82e0fb826)
 
 ## Getting Started
 
